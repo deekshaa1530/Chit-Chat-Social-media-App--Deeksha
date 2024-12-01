@@ -33,7 +33,7 @@
     padding: 1rem;
     z-index: 9;
     padding-bottom: 1rem;
-    background-color: rgba(255, 255, 255, 0.219);
+    background-color: turquoise;
     backdrop-filter: blur(10px);
     border-radius: 1rem;
     gap: 1rem;
@@ -60,7 +60,7 @@
     width: 30px;
     height: 30px;
     border-radius: 50%;
-    border: 2px solid #68caf4;
+    border: 2 px turquoise;
 }
 .usernameTop{
     position: relative;
@@ -71,7 +71,7 @@
 }
 #addFriendInPost{
     font-size: 1.5rem;
-    color: #088ec8;
+    color:turquoise;
 }
 
 
@@ -96,7 +96,7 @@
 }
 .reactbtn{
     font-size: 20px;
-    color: rgba(6, 98, 202, 0.705);
+    color: blanchedalmond;
     cursor: pointer;
 }
 
